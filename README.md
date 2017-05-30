@@ -1,6 +1,4 @@
-# demo-apache.chriswang.tech
-
-By Chris Wang (mw866)
+# Apache HTTP Server with TLS using Let's Encrypt 
 
 This is a [website](https://demo-apache.chriswang.tech/) to demonstrate the setup of HTTPS service on an Apache HTTP Server using [Let's Encrypt](https://letsencrypt.org/).
 
@@ -153,14 +151,6 @@ To verify that the the HTTPS/TLS service is configured correctly, the [Qualys SS
 The test report is shown below with a big green **A**. It means the HTTPS/TLS is working as expected! 😀
 
 ![](images/ssl_report.png)
-
-
-
-Well done!
-
-
-
-/Chris
 
 ## References
 
